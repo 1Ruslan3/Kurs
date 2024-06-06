@@ -1,0 +1,15 @@
+Load A, in.txt;
+qLoad B, in3.txt;
+qSave A, in2.txt;
+qRand A, 5, 1, 10;
+qConcat A, B;
+qFree(A);
+qRemove A, 2, 7;
+qCopy A, 4, 10, B;
+qSort A-;
+qPermute A;
+qIntersect A, B;
+qXor A, B;
+Stat A;
+qPrint A, 4, 14;
+qPrint A, all;

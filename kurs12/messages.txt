@@ -1,0 +1,11 @@
+Ruslan  10:15:23: Hello Misha, how are you?
+Misha  10:20:45: Hi Ruslan, I'm doing fine, thanks!
+Ruslan  11:30:00: Great! Let's meet tomorrow.
+Misha  11:35:10: Sure, where do you want to meet?
+Ruslan  11:40:20: Let's meet at the coffee shop near the park.
+Misha  11:45:30: Okay, see you there!
+Artem 13:13:13: flugegeheimen
+Ilya 15:00:00: Where are the allocators?
+Ilya 15:30:00: Everything I say will be on the exam.
+Aleksandr 16:00:00: Attention - trick.
+Aleksandr 16:30:00: I hope this is clear to everyone.
